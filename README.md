@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skyzxuu&label=Profile%20views&color=0e75b6&style=flat" alt="skyzxuu" /> </p>
 
-- 🔭 I’m currently working on [Nodejs API for WhatsApp bot](api.skyzxu.web.id)
+- 🔭 I’m currently working on [Nodejs API for WhatsApp bot](https://api.skyzxu.web.id)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
